@@ -1,16 +1,20 @@
-### Hi there 👋
+## Introducing Myself 🙋🏻‍♀️
 
-<!--
-**valdezsanz/valdezsanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello my name is Nahuel Valdez, a self-taught data analyst from Argentina. With a background in Mechanical Engenieering, I transitioned to data in late 2022 and have been teaching myself SQL, Python, and power BI.
 
-Here are some ideas to get you started:
+### 📚 Portfolio 📚
+In my portfolio, you can find my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tools
+- Databases: SQL (PostgreSQL, Google BigQuery)
+- Python: NumPy, Pandas
+- Visualisation: PowerBI, Matplotlib, Seaborn
+
+### 🙌🏻 Contact
+- [Linkedin](https://www.linkedin.com/in/valdeznahuel/)
+- [Medium](https://katiehuangx.medium.com)
+- [Kaggle](https://www.kaggle.com/katiehuangx)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-khushiSaxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valdeznahuel/)](https://www.linkedin.com/in/valdeznahuel/)
+[![Gmail Badge](https://img.shields.io/badge/-KhushiSaxena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valdezsanz@gmail.com)](mailto:valdezsanz@gmail.com)
