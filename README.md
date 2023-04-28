@@ -2,7 +2,7 @@
 
 Mi nombre es Valdez nahuel y soy un Analista de datos desempeñandome actualmente como trainee de Business Intelligence. Cuento con formación en ingeniería electromecánica y experiencia como supervisor en un taller mecánico.
 
-Trancisione al area de datos en 2022.Aprendi las bases del analisis de datos y a utilizar las herramientas necesarias para resolver cualquier tipo de problematica orientada a datos. 
+Transicioné al area de datos en 2022.Aprendi las bases del analisis de datos y a utilizar las herramientas necesarias para resolver cualquier tipo de problematica orientada a datos. 
 
 
 ## 📚 Portfolio 📚
@@ -26,7 +26,7 @@ Herramientas utilizadas:
 [ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjI3YjIwN2UtNGQyYi00OWY2LTlmYjctODNiZGQwMmY2YTUyIiwidCI6IjNlNTMyODRhLWVlZjAtNDI3My05ZTZjLWE2NjA2YmJlMzNiMSJ9)
 
 ### [Sales Method](https://github.com/valdezsanz/sales_method-Python):
-Proyecto realizado como parte de la certificacion Data Analyst Professional en la plataforma DataCamp .El objetivo fue Analizar el mejor metodo de ventas 
+Proyecto realizado como parte de la certificacion Data Analyst Professional en la plataforma DataCamp .El objetivo fue Analizar el mejor método de ventas 
 
 Herramientas utilizadas: Python
 
