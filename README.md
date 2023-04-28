@@ -1,6 +1,7 @@
 ## Acerca de Mi 🙋🏻‍♀️
 
-Mi nombre es Valdez nahuel y soy un Analista de datos con formación en ingeniería electromecánica y experiencia como supervisor en un taller mecánico 
+Mi nombre es Valdez nahuel y soy un Analista de datos con formación en ingeniería electromecánica y experiencia como supervisor en un taller mecánico.
+
 Trancisione al area de datos en 2022, mediante Cursos y por mi cuenta aprendi las bases del analisis de datos y a utilizar las herramientas necesarias para resolver cualquier tipo de problematica orientada a datos. 
 
 
