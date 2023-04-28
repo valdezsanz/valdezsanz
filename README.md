@@ -1,4 +1,4 @@
-## Acerca de Mi 🙋🏻‍♀️
+## Acerca de Mi
 
 Mi nombre es Valdez nahuel y soy un Analista de datos con formación en ingeniería electromecánica y experiencia como supervisor en un taller mecánico.
 
