@@ -12,9 +12,4 @@ In my portfolio, you can find my [projects](https://github.com/katiehuangx/Portf
 
 ### 🙌🏻 Contact
 - [Linkedin](https://www.linkedin.com/in/valdeznahuel/)
-- [Medium](https://katiehuangx.medium.com)
-- [Kaggle](https://www.kaggle.com/katiehuangx)
-
-
-[![Linkedin Badge]](https://www.linkedin.com/in/valdeznahuel/)
-[![Gmail Badge](https://img.shields.io/badge/-KhushiSaxena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valdezsanz@gmail.com)](mailto:valdezsanz@gmail.com)
+- [Mail](mailto:valdezsanz@gmail.com)
