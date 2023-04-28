@@ -6,9 +6,9 @@ Trancisione al area de datos en 2022.Aprendi las bases del analisis de datos y a
 
 
 ## 📚 Portfolio 📚
-En mi [repo](https://github.com/valdezsanz?tab=repositories)se encuentran mis proyectos. Los mas destacados son :
+En mi [repo](https://github.com/valdezsanz?tab=repositories) se encuentran mis proyectos. Los mas destacados son :
 ### [RTO analysis](https://github.com/valdezsanz/RTO_analysis-Python-PowerBI): 
-El objetivo fue realizar un dashboard para control de las metricas mas importantes del negocio, y responder preguntas hacerca de las revisiones realizadas en un taller mecanico .
+El objetivo fue realizar un dashboard para control de las metricas mas importantes del negocio, y responder preguntas acerca de las revisiones realizadas en un taller mecanico .
 
 Herramientas utilizadas : 
 - Python para hacer el web Scraping ,limpiar los datos y realizar el analisis de estos 
