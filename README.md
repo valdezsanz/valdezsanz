@@ -3,33 +3,29 @@
   Mi nombre es Valdez nahuel y soy un Analista de datos desempeñandome actualmente como trainee de Business Intelligence. Cuento con formación en ingeniería electromecánica y experiencia como supervisor en un taller mecánico.
 
 ## 🚀 Mis inicios en Data 🚀
-  A mediados de 2022 me preguntaron si era posible mostrar mas informacion de la que estaba disponible en la pagina web donde se cargaban los datos de las revisiones tecnicas que realizabamos en nuestro taller.
+  A mediados de 2022 me preguntaron si era posible mostrar más información de la que estaba disponible en la pagina web donde se cargaban los datos de las revisiones técnicas que realizábamos en nuestro taller.
   
-  El requerimiento era saber, entre otras cosas, la cantidad de vehiculos revisadas en los ultimos 365 dias. 
+  El requerimiento era saber, entre otras cosas, la cantidad de vehículos revisadas en los últimos 365 días. 
   
-  La web contaba con un tablero donde el rango maximo de fechas a mostrar era de un mes, por lo que hasta el momento se sumaban manualmente los resultados hasta llegar a los 365 dias.
+  La web contaba con un tablero donde el rango máximo de fechas a mostrar era de un mes, por lo que hasta el momento se sumaban manualmente los resultados hasta llegar a los 365 días.
   
-  Tenia en ese entonces un conocimiento basico de python (lo habia utilizado para automatizar cosas como cambiar nombres de archivos en mi pc) por lo que dije que si al proyecto y empece a trabajar en el en mi tiempo libre .
+  Tenía en ese entonces un conocimiento básico de Python (lo había utilizado para automatizar cosas como cambiar nombres de archivos en mi pc) por lo que dije que si al proyecto y empecé a trabajar en el en mi tiempo libre .
   
-  Utilizando librerias de web scraping consegui los datos necesarios en csv, y ahora tocaba investigar como llevar eso a un tablero para mostrar las estadisticas que necesitaba mi jefe.
+  Utilizando librerías de web scraping conseguí los datos necesarios en csv, y ahora tocaba investigar cómo llevar eso a un tablero para mostrar las estadísticas que necesitaba mi jefe.
   
-  Aprendi sobre la libreria pandas , y mediante mucha prueba y error logre unir todos los archivos y limpiarlos para tener solo la informacion necesaria.
+  Aprendí sobre la librería pandas , y mediante mucha prueba y error logre unir todos los archivos y limpiarlos para tener solo la información necesaria.
   
-  Ahora estaba de nuevo en mi confort zone, era cuestion de utilizar Excel , cargar el csv y hacer la tabla y su grafico. 
+  Ahora estaba de nuevo en mi confort zone, era cuestión de utilizar Excel , cargar el csv y hacer la tabla , su gráfico y un filtro para las fechas. 
   
-  Pero me encontre con un gran problema: el csv contenia mas de 2 millones de filas. Por lo que no podia trabajar en excel. 
+   Mi jefe quedo satisfecho con lo que hice pero no se daba idea de la magnitud de cosas que tuve que aprender y lo que despertó en mí:
   
-  Como el requerimiento no era tener los datos de las revisiones individuales, sino solo datos estadisticos, volvi a python y con pandas agrupe las revisiones por dia. 
+  Una inmensa curiosidad y ganas de saber mas sobre el mundo de los datos. En esas semanas de investigación me topé con muchas sugerencias de aplicaciones hechas específicamente para lo que yo estaba tratando de hacer, me fui dando cuenta de que Excel es solo la punta del iceberg. 
   
-  Ahora si tenia ya todo listo para mostrar mis resultados en excel, hice una tabla pivot junto con un grafico y un filtro para las fechas. Mi jefe quedo satisfecho con lo que hice pero no se daba idea de la magnitud de cosas que tuve que aprender y lo que desperto en mi.
+  Había Aplicaciones para hacer tablas y gráficos dinámicos de verdad, no lo que venía haciendo yo en Excel hace ya 5 años, una forma de guardar datos mejor que en tablas de Excel y archivos csv, y un lenguaje dedicado a hacer consultas a una base de datos.
   
-  Una inmensa curiosidad y ganas de saber mas sobre el mundo de los datos.En esas semanas de investigacion me tope con muchas sugerencias de aplicaciones hechas especificamente para lo que yo estaba tratando de hacer, me fui dando cuenta de que excel es solo la punta del iceberg. 
+  Es así entonces que tome la decisión de transicionar a una nueva área, realizando cursos y aprendiendo por mi cuenta sobre las bases del análisis de datos y las herramientas necesarias para resolver cualquier tipo de problemática orientada a datos.
   
-  Habia Aplicaciones para hacer tablas y graficos dinamicos de verdad, no lo que venia haciendo yo en excel hace ya 5 años, una forma de guardar datos mejor que en tablas de excel y archivos csv, y un lenguaje dedicado a hacer consultas a una base de datos.
-  
-  Es asi entonces que tome la decision de transicionar a una nueva area, realizando cursos y aprendiendo por mi cuenta sobre las bases del analisis de datos y las herramientas necesarias para resolver cualquier tipo de problematica orientada a datos.
-  
-  
+
 ## 📚 Portfolio 📚
 En mi [repo](https://github.com/valdezsanz?tab=repositories) se encuentran mis proyectos. Los mas destacados son :
 ### [RTO analysis](https://github.com/valdezsanz/RTO_analysis-Python-PowerBI): 
