@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Acerca de Mi 🙋‍♂️
 
-  Mi nombre es Valdez nahuel y soy un Analista de datos desempeñandome actualmente como trainee de Business Intelligence. Cuento con formación en ingeniería electromecánica y experiencia como supervisor en un taller mecánico.
+  Mi nombre es Valdez nahuel y soy un Analista de datos. Cuento con formación en ingeniería electromecánica y actualmente cursandocla una maestria en ciencia de datos
 
 ## 🚀 Mis inicios en Data 🚀
   A mediados de 2022 me preguntaron si era posible mostrar más información de la que estaba disponible en la pagina web donde se cargaban los datos de las revisiones técnicas que realizábamos en nuestro taller.
